@@ -1,7 +1,9 @@
 <div align="center">
 <h1 align="center">Hola, soy Hugo Armando 👋</h1>
 </div>
+<div align="center">
 <img src="https://pbs.twimg.com/media/FtsmAiAWcAE7uhI?format=png&name=small">
+  </div>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
