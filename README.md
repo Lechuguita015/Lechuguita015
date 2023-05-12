@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy Hugo Armando 👋</h1>
 </div>
 <div align="center">
-<img src="https://drive.google.com/file/d/1QvcsrBb0IyXa9E010eCBxVhIP0jDryhc/view?usp=sharing">
+<img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81p_zZdPILXNjawwhPVETCvEP1horrjFmcexhQNPoPb2ao0Ar1imJbPNWPoH0wD_EDJE5l4gE-vOd_FxLE4F3xyn8UEsGQ=w1366-h657">
   
   </div>
   
